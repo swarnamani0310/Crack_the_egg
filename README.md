@@ -56,3 +56,4 @@ Want to enhance Basket Rush? Feel free to fork this project and suggest improvem
 ## 👨‍💻 Creator
 This game was developed by **Swarna M** (GitHub: [swarnamani0310](https://github.com/swarnamani0310), LinkedIn: [swarna-mani2005](https://www.linkedin.com/in/swarna-mani2005)).
 I'm passionate about creating joyful, interactive web experiences that blend creativity with code. Crack the Egg is my playful take on classic reveal games - designed to deliver smiles through whimsical animations, cheerful sound effects, and satisfying gameplay moments.
+[Animation - 1749640433519.json](https://github.com/user-attachments/files/20689819/Animation.-.1749640433519.json)
