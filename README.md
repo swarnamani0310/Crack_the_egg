@@ -32,10 +32,27 @@ Crack the Egg is a delightful and engaging web-based game where players crack op
 ► **Educational for Kids –** Helps with number recognition and hand-eye coordination.  
 ## Installation & Running the Game
 Download or clone this repository ->
-https://github.com/[your-repo]/Crack-the-Egg.git
+https://github.com/swarnamani0310/Crack_the_egg.git
 
 Open index.html in your browser.
 
 Start cracking eggs and enjoy!
 
 Crack the Egg is a lightweight web-based game that runs instantly on any modern browser—no installations or plugins needed!
+## Technologies Used
+Crack the Egg is built with:
+
+► **HTML:** Game structure and elements.
+
+► **CSS:** Vibrant animations, themes, and responsive design.
+
+► **JavaScript:** Interactive gameplay, power-ups, and dynamic effects.
+
+► **Web Audio API:** Sound effects for cracking and blooming.  
+## 💡 Contributing
+Want to enhance Basket Rush? Feel free to fork this project and suggest improvements! Whether it's new themes, improved mechanics, or additional features, contributions are always welcome.
+
+
+## 👨‍💻 Creator
+This game was developed by **Swarna M** (GitHub: [swarnamani0310](https://github.com/swarnamani0310), LinkedIn: [swarna-mani2005](https://www.linkedin.com/in/swarna-mani2005)).
+I'm passionate about creating joyful, interactive web experiences that blend creativity with code. Crack the Egg is my playful take on classic reveal games - designed to deliver smiles through whimsical animations, cheerful sound effects, and satisfying gameplay moments.
